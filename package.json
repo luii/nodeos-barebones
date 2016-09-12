@@ -20,7 +20,7 @@
     "nodeos-nodejs": "^6.4.0"
   },
   "devDependencies": {
-    "qemu": "NodeOS/qemu",
+    "qemu": "luii/qemu",
     "suppose": "^0.6.1"
   },
   "description": "Generate a NodeOS barebones image",
